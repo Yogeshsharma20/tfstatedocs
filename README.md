@@ -1,4 +1,4 @@
-Terraform State Files and Azure Resource Groups
+         **Terraform state file  ** ----Terraform State Files and Azure Resource Groups
 Terraform State Files
 Terraform uses state files to keep track of managed resources.
 State files are in JSON format and store resource information, attributes, and dependencies.
